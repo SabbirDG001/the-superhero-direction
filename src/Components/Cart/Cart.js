@@ -18,7 +18,7 @@ const Cart = (props) => {
                 <div>
                     <ul>
                     {
-                        personCart.map(props=><li>{props.name}</li>)
+                        personCart.map(props=><li key={props._id}>{props.name}</li>)
                     }
                     </ul>
                 </div>
