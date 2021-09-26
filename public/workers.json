@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "615073896572118183254c54",
+    "balance": 1060,
+    "picture": "https://reqres.in/img/faces/1-image.jpg",
+    "age": 25,
+    "name": "Michael Lawson",
+    "gender": "Male",
+    "email": "michaellawson@printspan.com",
+    "phone": "+1 (986) 458-2077"
+  },
+  {
+    "_id": "61507389705440bb809873e2",
+    "balance": 1299,
+    "picture": "https://reqres.in/img/faces/2-image.jpg",
+    "age": 23,
+    "name": "Lindsay Hayes",
+    "gender": "Female",
+    "email": "lindsayhayes@printspan.com",
+    "phone": "+1 (984) 423-3303"
+  },
+  {
+    "_id": "615073891b4cbb8407edf05d",
+    "balance": 1485,
+    "picture": "https://reqres.in/img/faces/3-image.jpg",
+    "age": 26,
+    "name": "Misty Flowers",
+    "gender": "Female",
+    "email": "mistyflowers@printspan.com",
+    "phone": "+1 (930) 459-3765"
+  },
+  {
+    "_id": "615073890d8263edc3a3d305",
+    "balance": 2924,
+    "picture": "https://reqres.in/img/faces/4-image.jpg",
+    "age": 51,
+    "name": "Reginold Mathiw",
+    "gender": "Male",
+    "email": "reginamathis@printspan.com",
+    "phone": "+1 (987) 400-3576"
+  },
+  {
+    "_id": "61507389c2d1349030600c7c",
+    "balance": 3657,
+    "picture": "https://reqres.in/img/faces/5-image.jpg",
+    "age": 24,
+    "name": "Robin Denson",
+    "gender": "Male",
+    "email": "lillyoneill@printspan.com",
+    "phone": "+1 (857) 433-3402"
+  },
+  {
+    "_id": "6150738958751606fbd97643",
+    "balance": 1675,
+    "picture": "https://reqres.in/img/faces/6-image.jpg",
+    "age": 36,
+    "name": "Bonnern Cabrer",
+    "gender": "Male",
+    "email": "bonnercabrera@printspan.com",
+    "phone": "+1 (908) 597-2423"
+  },
+  {
+    "_id": "61507389b3cca5f1a540742c",
+    "balance": 2087,
+    "picture": "https://reqres.in/img/faces/7-image.jpg",
+    "age": 30,
+    "name": "Marietta Hendrix",
+    "gender": "Female",
+    "email": "mariettahendrix@printspan.com",
+    "phone": "+1 (895) 485-3336"
+  },
+  {
+    "_id": "61507389684e610b4f920ac0",
+    "balance": 2998,
+    "picture": "https://reqres.in/img/faces/8-image.jpg",
+    "age": 22,
+    "name": "Eddie Shannon",
+    "gender": "Male",
+    "email": "eddieshannon@printspan.com",
+    "phone": "+1 (889) 481-3127"
+  },
+  {
+    "_id": "615073897fe5c358ea2d4c1f",
+    "balance": 3986,
+    "picture": "https://reqres.in/img/faces/9-image.jpg",
+    "age": 24,
+    "name": "Marguerite Britt",
+    "gender": "Male",
+    "email": "margueritebritt@printspan.com",
+    "phone": "+1 (860) 528-3667"
+  },
+  {
+    "_id": "615073891ce4d08ecdf8f437",
+    "balance": 2650,
+    "picture": "https://reqres.in/img/faces/10-image.jpg",
+    "age": 29,
+    "name": "Deirdre Harmon",
+    "gender": "Male",
+    "email": "deirdreharmon@printspan.com",
+    "phone": "+1 (968) 538-2792"
+  },
+  {
+    "_id": "61507389a13588b2fbeeb896",
+    "balance": 3540,
+    "picture": "https://reqres.in/img/faces/11-image.jpg",
+    "age": 23,
+    "name": "Koch Skinner",
+    "gender": "Male",
+    "email": "kochskinner@printspan.com",
+    "phone": "+1 (825) 408-2522"
+  },
+  {
+    "_id": "615073899a50a32a9fb5ef6c",
+    "balance": 1663,
+    "picture": "https://reqres.in/img/faces/12-image.jpg",
+    "age": 21,
+    "name": "Mcclure Petticia",
+    "gender": "Female",
+    "email": "mcclurepetty@printspan.com",
+    "phone": "+1 (960) 410-3169"
+  }
+  
+]

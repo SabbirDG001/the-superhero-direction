@@ -1,0 +1,23 @@
+div{
+    color: white;
+    background-color: rgb(77, 77, 80);
+    padding: 10px;
+}
+h1{
+    margin-top: 0%;
+    color: rgb(68, 68, 246);
+}
+.welcome{
+    color: rgb(68, 68, 246);
+}
+h2 span{
+    color: rgb(0, 255, 200);
+    font-weight: 800;
+}
+h3 span{
+    color: rgb(0, 255, 13);
+    font-weight: 800;
+}
+h4{
+    color: yellowgreen;
+}

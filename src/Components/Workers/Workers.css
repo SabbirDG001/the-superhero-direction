@@ -1,0 +1,9 @@
+.workers-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color: rgb(112, 107, 107);
+}
+.person-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

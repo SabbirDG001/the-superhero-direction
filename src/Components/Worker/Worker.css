@@ -1,0 +1,21 @@
+.image{
+    height: 181.672px;
+    width: 100%;
+}
+button{
+    width: 100px;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    background-color: teal;
+    font-weight: 700;
+    border: 2px solid black;
+    transition: 0.3s;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: #464343;
+    color: blanchedalmond;
+}
+.person{
+    background-color:  rgb(160, 153, 153);
+}
